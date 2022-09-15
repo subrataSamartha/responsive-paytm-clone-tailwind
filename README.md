@@ -1,5 +1,6 @@
-# Paytm Landing page (UI only)
+# Paytm Landing page (UI only) Fully Responsive
 
+[Hosted Link](https://paytm-clone-ss.netlify.app/)\
 A landing page to improve TelwindCSS skill.
 
 ## Key Learnings
